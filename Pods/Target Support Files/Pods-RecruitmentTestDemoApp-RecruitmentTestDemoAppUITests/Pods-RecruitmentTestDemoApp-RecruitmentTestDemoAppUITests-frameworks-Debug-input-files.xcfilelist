@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-RecruitmentTestDemoApp-RecruitmentTestDemoAppUITests/Pods-RecruitmentTestDemoApp-RecruitmentTestDemoAppUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/SwiftDate/SwiftDate.framework
