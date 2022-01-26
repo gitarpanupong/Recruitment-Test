@@ -10,7 +10,6 @@
 		0F2C1EF727983E8100C5024E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F2C1EF627983E8100C5024E /* AppDelegate.swift */; };
 		0F2C1EF927983E8100C5024E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F2C1EF827983E8100C5024E /* SceneDelegate.swift */; };
 		0F2C1EFB27983E8100C5024E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F2C1EFA27983E8100C5024E /* ViewController.swift */; };
-		0F2C1EFE27983E8100C5024E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F2C1EFC27983E8100C5024E /* Main.storyboard */; };
 		0F2C1F0027983E8300C5024E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F2C1EFF27983E8300C5024E /* Assets.xcassets */; };
 		0F2C1F0327983E8300C5024E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F2C1F0127983E8300C5024E /* LaunchScreen.storyboard */; };
 		0F2C1F0E27983E8300C5024E /* RecruitmentTestDemoAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F2C1F0D27983E8300C5024E /* RecruitmentTestDemoAppTests.swift */; };
@@ -341,7 +340,6 @@
 			files = (
 				0F2C1F0327983E8300C5024E /* LaunchScreen.storyboard in Resources */,
 				0F2C1F0027983E8300C5024E /* Assets.xcassets in Resources */,
-				0F2C1EFE27983E8100C5024E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
